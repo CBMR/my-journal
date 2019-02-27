@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://happy-sinoussi-ef8ec8.netlify.com/',
   title: 'Blog by Abdiel Fernandez',
   subtitle: 'The life of a Softwarw Engineer',
   copyright: '© All rights reserved.',
