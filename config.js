@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Abdiel Fernandez',
-    photo: '/photo.jpg',
+    photo: '/abdiel.jpg',
     bio: 'Learning everyday, one mistake at a time',
     contacts: {
       email: 'fernandezabdiel@gmail.com',
